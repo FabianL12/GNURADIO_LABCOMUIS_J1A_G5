@@ -1,2 +1,2 @@
 # GNURADIO_LABCOMUIS_J1A_G5
-Aca se hara algo interesante, proximamente... SIIIU
+Repositorio, laboratorio de comunicaciones 1 J1A grupo 5 2022-1
